@@ -47,12 +47,5 @@
 	"parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
 	"baseFeePerGas": null,
 	"excessBlobGas": null,
-	"blobGasUsed": null,
-	"blobSchedule": {
-		"cancun": {
-			"target": 6,
-			"max": 6,
-			"baseFeeUpdateFraction": 6
-		}
-	}
+	"blobGasUsed": null
 }
